@@ -1,3 +1,5 @@
+/* Global Stylers */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -17,6 +19,8 @@ p {
     font-size: 16px;
 }
 
+/* Header Unique Stylers */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -32,6 +36,8 @@ p {
 .header h1 .seo {
     color: #d9dcd6;
 }
+
+/* Navigation Bar Stylers */
 
 .nav-bar {
     padding-top: 15px;
@@ -50,6 +56,8 @@ p {
     margin-left: 25px;
 }
 
+/* Hero Stylers */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +66,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* Content Stylers */
 
 .float-left {
     float: left;
@@ -93,6 +103,8 @@ p {
     font-size: 36px;
 }
 
+/* Side Bar Stylers */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -119,6 +131,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer Stylers */
 
 .footer {
     padding: 30px;
