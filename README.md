@@ -13,8 +13,10 @@ In altering the Horiseon website, my goal was to exemplify my capabilities with 
 ## Installation
 * None
 ## Usage
-This repository can be opened as an HTML within Github 
-    ```
+This repository can be opened as an HTML within Github at the website: https://teeemster.github.io/horiseon-refacted-code/
+
+From here you can view the website and test the links within the site platform. I have also provided the refacted source code that can be further examined. 
+    
 ## Credits
 * University of Arizona
 * Jonathan Beach
